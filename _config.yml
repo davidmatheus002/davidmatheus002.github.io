@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
+url: https://davidmatheus.me/
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: David Matheus professional portfolio
+#email: your-email@domain.com
+description: "Professional website for David Matheus, a transport and mobility policy analyst with experience in European projects and focusing on sustainability, decarbonization, energy transition and green and circular economy. In my portfolio you can find examples of projects I have worked on."
 
 
 # Team names, titles and social links
